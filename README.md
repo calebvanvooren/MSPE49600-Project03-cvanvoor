@@ -27,3 +27,8 @@ Instructions:
 3. Open the notebook.
 4. Run all cells from top to bottom.
 5. All data files use relative paths and are included in the repository.
+
+
+## Selected RBF Hyperparameters
+sigma = 0.652057
+lambda = 1e-08
