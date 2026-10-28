@@ -32,3 +32,7 @@ Instructions:
 ## Selected RBF Hyperparameters
 sigma = 0.652057
 lambda = 1e-08
+
+## Final Results
+Quadratic model achieved the best IMS prediction performance.
+Tanh MLP achieved the best lap-time prediction performance.
