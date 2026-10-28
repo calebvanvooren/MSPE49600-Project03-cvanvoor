@@ -36,3 +36,16 @@ Instructions:
 ## Final Results
 - Quadratic model achieved the best IMS prediction performance.
 - Tanh MLP achieved the best lap-time prediction performance.
+
+## Acknowledgments
+- Portions of the workflow were adapted from Project 2 course materials, including
+the quadratic response-surface modeling approach and related data-processing
+techniques.
+
+- The neural-network workflow was adapted from the second example presented in
+Lecture 16 and modified to satisfy the requirements of this project.
+
+- Microsoft Copilot was used as an instructional aid for debugging, code review,
+interpretation of assignment requirements, and generation of draft explanations.
+All code, analysis, results, and final submitted content were reviewed,
+modified, verified, and submitted by the author.
